@@ -1,7 +1,8 @@
 import numpy as np
-import scipy
 
+import scipy
 from scipy import signal
+
 from obspy.geodetics import gps2dist_azimuth
 
 
