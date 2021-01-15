@@ -1,14 +1,10 @@
 # G-EEW
-Earthquake early detection capabilities of different types of
-future-generation gravity gradiometers.
-
+Earthquake early detection capabilities of different types of future-generation gravity gradiometers.
 This repository contains codes used in [Shimoda et al. (2021)](https://doi.org/10.1093/gji/ggaa486).
-
 
 ## Simulation and data processing
 
 ### Computation of prompt gravity strain
-
 The perturbation of the gravitational field is computed based on the half-space model
 developed by [Harms (2016)](https://doi.org/10.1093/gji/ggw076).
 Then each component of the gravity gradient is approximated numerically as the
@@ -17,7 +13,6 @@ Gravity strain `h(t)` is obtained by integrating the gravity gradient twice over
 
 
 ### Computation of the optimal signal-to-noise ratio
-
 We consider an optimal matched-filter detection procedure.
 The optimal matched-filters are the pre-whitened signal templates `h(t)`.
 Both the signal templates and the recorded data `s(t) = h(t) + n(t)`, where `n(t)` is detector noise,
