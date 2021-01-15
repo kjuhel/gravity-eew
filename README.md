@@ -1,6 +1,8 @@
 # G-EEW
 Earthquake early detection capabilities of different types of future-generation gravity gradiometers.
+
 This repository contains codes used in [Shimoda et al. (2021)](https://doi.org/10.1093/gji/ggaa486).
+
 
 ## Simulation and data processing
 
@@ -26,7 +28,6 @@ the standard deviation of the matched-filter applied to noise alone.
 ## Contact information
 * [Kévin Juhel](mailto:juhel.kevin@gmail.com)
 * [Tomofumi Shimoda](mailto:shimoda@granite.phys.s.u-tokyo.ac.jp)
-* [Jean-Paul Ampuero](mailto:ampuero@geoazur.unice.fr)
 
 
 ## References
