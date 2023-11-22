@@ -26,7 +26,7 @@ the standard deviation of the matched-filter applied to noise alone.
 
 
 ## Contact information
-* [Kévin Juhel](mailto:juhel.kevin@gmail.com)
+* [Kévin Juhel](mailto:kjuhel.pro@gmail.com)
 * [Tomofumi Shimoda](mailto:shimoda@granite.phys.s.u-tokyo.ac.jp)
 
 
